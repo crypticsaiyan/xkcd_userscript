@@ -1,4 +1,10 @@
 # xkcd Dark Minimalist Userscript
+  
+## Screenshots
+
+| Original | Modified (Dark Minimalist) |
+|----------|---------------------------|
+| ![Original xkcd](images/original.png) | ![Dark Minimalist xkcd](images/modified.png) |
 
 A simple userscript that transforms [xkcd.com](https://xkcd.com) into a dark-themed, minimalist experience.
 
