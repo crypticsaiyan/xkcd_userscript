@@ -17,7 +17,7 @@ A simple userscript that transforms [xkcd.com](https://xkcd.com) into a dark-the
 ## Installation
 
 1. Install a userscript manager ([Violentmonkey](https://violentmonkey.github.io/) recommended).
-2. [Download the script](./xkcd-dark-minimalist.user.js) or copy its contents.
+2. [Download the script](./userscript.user.js) or copy its contents.
 3. Add the script to your userscript manager.
 
 ## Usage
